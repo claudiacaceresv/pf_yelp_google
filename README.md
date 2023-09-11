@@ -33,3 +33,11 @@ Para lograr este objetivo, llevaremos a cabo un análisis exhaustivo de las rese
 El conocimiento derivado de este análisis proporcionará a nuestro cliente, una valiosa perspectiva sobre las áreas en las que deben enfocarse para mejorar la calidad de sus servicios y productos. Además, permitirá anticipar tendencias y adaptarse de manera proactiva a las demandas cambiantes del mercado, respaldando así la toma de decisiones estratégicas informadas.
 
 En última instancia, nuestro objetivo es brindar a nuestro cliente una ventaja competitiva sólida al ofrecer una visión completa y detallada de la opinión de los clientes y los elementos que impulsan el éxito en la industria gastronómica estadounidense.
+
+## Alcance
+
+Dentro del marco temporal asignado para la ejecución del proyecto en curso, hemos tomado la decisión de precisar cuidadosamente los límites y alcances en relación a aspectos esenciales. Esta delimitación ha sido aplicada estratégicamente, considerando la industria objetivo, las fuentes de datos, la geografía involucrada y el periodo temporal abordado.
+
+Con el objetivo de garantizar un enfoque preciso y la obtención de resultados concretos, hemos restringido el alcance del proyecto al ámbito de la industria gastronómica, centrándonos inicialmente en la ciudad de Miami. Esta elección se fundamenta en la amplitud, vitalidad y significativo impacto económico que la industria gastronómica ejerce en la economía de los Estados Unidos. Además, esta elección encuentra respaldo en la perspectiva de nuestro cliente de establecer un restaurante temático basado en la figura destacada del futbolista argentino Lionel Messi.
+
+Cabe destacar que este enfoque se acota a los años entre 2019 y 2021, ya que estos años cuentan con datos particularmente significativos, considerando las fuentes seleccionadas de Google Maps. La selección de la industria se basa en su variabilidad y relevancia en el contexto económico estadounidense.
