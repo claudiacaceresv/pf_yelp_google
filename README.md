@@ -23,3 +23,13 @@
 En el dinámico panorama empresarial actual, la retroalimentación de los usuarios se ha transformado en un recurso de inmenso valor. Específicamente, las plataformas de reseñas, en constante expansión, como Yelp y Google Maps, desempeñan un papel fundamental al permitir que los usuarios compartan sus experiencias y opiniones sobre una amplia gama de negocios, desde restaurantes hasta hoteles y servicios. Esta información proporciona una perspectiva esencial para las empresas, brindándoles una comprensión directa de la percepción de los clientes y las áreas que requieren mejoras.
 
 En nuestra calidad de consultora especializada en análisis de datos, nos hemos enfrentado a un desafío significativo: llevar a cabo un análisis exhaustivo del mercado estadounidense, centrándonos en el sector de restaurantes y actividades relacionadas. Nuestro cliente busca obtener una comprensión profunda de las opiniones de los usuarios en las plataformas Yelp y Google Maps. Este análisis permitirá anticipar tendencias en el crecimiento o disminución de sectores empresariales y respaldará la toma de decisiones estratégicas.
+
+## Objetivo
+
+El objetivo general del proyecto es comprender a profundidad la opinión de los clientes en relación con los negocios del sector de restaurantes y actividades afines en el mercado estadounidense. Nuestra meta es identificar patrones de satisfacción, tendencias emergentes y factores clave que influyen directamente en la calidad y éxito de estos establecimientos.
+
+Para lograr este objetivo, llevaremos a cabo un análisis exhaustivo de las reseñas y calificaciones proporcionadas por los usuarios en las plataformas Yelp y Google Maps. Exploraremos la percepción de los clientes en aspectos que van desde la calidad de la comida y el servicio hasta la experiencia general del cliente. Además, examinaremos cómo variables como la ubicación, el tipo de cocina, la relación calidad-precio y otros factores impactan en la satisfacción del cliente y en la competitividad de los negocios.
+
+El conocimiento derivado de este análisis proporcionará a nuestro cliente, una valiosa perspectiva sobre las áreas en las que deben enfocarse para mejorar la calidad de sus servicios y productos. Además, permitirá anticipar tendencias y adaptarse de manera proactiva a las demandas cambiantes del mercado, respaldando así la toma de decisiones estratégicas informadas.
+
+En última instancia, nuestro objetivo es brindar a nuestro cliente una ventaja competitiva sólida al ofrecer una visión completa y detallada de la opinión de los clientes y los elementos que impulsan el éxito en la industria gastronómica estadounidense.
