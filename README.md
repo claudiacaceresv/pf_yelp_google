@@ -22,7 +22,7 @@
 <table style="width: 100%; text-align: justify;">
   <tr>
     <td>
-      En el dinámico panorama empresarial actual, la retroalimentación de los usuarios se ha transformado en un recurso de inmenso valor. Específicamente, las plataformas de reseñas, en constante expansión, como Yelp y Google Maps, desempeñan un papel fundamental al permitir que los usuarios compartan sus experiencias y opiniones sobre una amplia gama de negocios, desde restaurantes hasta hoteles y servicios. Esta información proporciona una perspectiva esencial para las empresas, brindándoles una comprensión directa de la percepción de los clientes y las áreas que requieren mejoras.
+En el dinámico panorama empresarial actual, la retroalimentación de los usuarios se ha transformado en un recurso de inmenso valor. Específicamente, las plataformas de reseñas, en constante expansión, como Yelp y Google Maps, desempeñan un papel fundamental al permitir que los usuarios compartan sus experiencias y opiniones sobre una amplia gama de negocios, desde restaurantes hasta hoteles y servicios. Esta información proporciona una perspectiva esencial para las empresas, brindándoles una comprensión directa de la percepción de los clientes y las áreas que requieren mejoras.
     </td>
   </tr>
 </table>
