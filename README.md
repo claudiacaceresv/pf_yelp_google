@@ -57,3 +57,6 @@ Cabe destacar que este enfoque se acota a los años entre 2019 y 2021, ya que es
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## Pipeline
+![Pipeline](https://github.com/claudiacaceresv/pf_yelp_google/blob/ecf33eca73bd189b266d7b588d65e01faf8ca0fc/src/Workflow.png)
