@@ -10,7 +10,6 @@
 <details>
   <summary>Tabla de Contenidos</summary>
   <ol>
-    <li><a href="#Índice">Índice</a></li>
     <li><a href="#Introducción">Introducción</a></li>
     <li><a href="#Objetivo">Objetivo</a></li>
     <li><a href="#Alcance">Alcance</a></li>
