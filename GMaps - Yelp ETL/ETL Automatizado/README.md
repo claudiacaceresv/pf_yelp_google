@@ -30,18 +30,21 @@ Para el proceso de extracción, transformación y carga de los datos de este pro
 - Big Query
 
 ## Data Lake
+
 El primer componente de nuestra estructura fue la creación de un Data Lake utilizando Cloud Storage de GCP. En esta etapa, realizamos la carga manual de los datos crudos en el Data Lake. Esto nos permitió almacenar grandes volúmenes de datos de manera segura y asequible, manteniendo su integridad y disponibilidad para futuros análisis.
 
 ![datalakepng](https://github.com/claudiacaceresv/pf_yelp_google/blob/92a9d96a894a583170edaf5e3296ab2d400e4a1b/src/Cloud%20Storage.png)
 
 
 ## Cloud Function
+
 Para automatizar el proceso ETL, implementamos Google Cloud Functions. Configuramos un activador que se desencadena automáticamente cuando se realiza una carga manual de datos en Cloud Storage. Este activador inicia el proceso ETL, que incluye la validación, transformación, limpieza y carga de datos en nuestro Data Warehouse.
 
 ![cfuncpng](https://github.com/claudiacaceresv/pf_yelp_google/blob/92a9d96a894a583170edaf5e3296ab2d400e4a1b/src/Cloud%20Functions.png)
 
 
 ## Data Warehouse
+
 El componente central de nuestra estructura de datos es BigQuery. Utilizamos BigQuery como nuestro Data Warehouse, donde se almacenan y gestionan todos los datos procesados después del ETL. Esta plataforma escalable y de alto rendimiento nos permite ejecutar consultas complejas y obtener resultados rápidos, lo que facilita la extracción de información valiosa.
 
 ![bigquerypng](https://github.com/claudiacaceresv/pf_yelp_google/blob/92a9d96a894a583170edaf5e3296ab2d400e4a1b/src/BigQuery.png)
