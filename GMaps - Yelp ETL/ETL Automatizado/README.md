@@ -7,9 +7,9 @@
   <ol>
     <li><a href="#Pipeline">Pipeline</a></li>
     <li><a href="#Tecnologías">Tecnologías Utilizadas</a></li>
-    <li><a href="#Data Lake">Data Lake</a></li>
-    <li><a href="#Cloud Function">Cloud Function</a></li>
-    <li><a href="#Data Warehouse">Data Warehouse</a></li>
+    <li><a href="#Data-Lake">Data Lake</a></li>
+    <li><a href="#Cloud-Function">Cloud Function</a></li>
+    <li><a href="#Data-Warehouse">Data Warehouse</a></li>
     <li><a href="#Video">Video</a></li>
   </ol>
 </details>
