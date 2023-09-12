@@ -61,7 +61,7 @@ Cabe destacar que este enfoque se acota a los años entre 2019 y 2021, ya que es
 ![Pipeline](https://github.com/claudiacaceresv/pf_yelp_google/blob/ecf33eca73bd189b266d7b588d65e01faf8ca0fc/src/Workflow.png)
 
 - Diccionario de datos: [Link diccionario](https://docs.google.com/spreadsheets/d/1Ql947y1GzXEJM7HPYNJw1nR_lQjkVZgu/edit#gid=476215875)
-- ETL Automatizado: [ETL Automatizado]()
+- ETL Automatizado: [ETL Automatizado](https://github.com/claudiacaceresv/pf_yelp_google/tree/de74cd7332f1d47f97697676235da179182ccaa5/GMaps%20-%20Yelp%20ETL/ETL%20Automatizado)
 - ETL extraccion de la API de Google Places: [Link ETL API Places]()
 - Dashboard y KPIs: [Link desarrollo Data Analytics]()
 - Sistema de recomendación: [Link desarrollo de sistema de recomendación]()
