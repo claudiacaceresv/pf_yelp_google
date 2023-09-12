@@ -33,7 +33,7 @@ A través de Cloud Scheduler, programamos una tarea que ejecuta una función dia
 
 ![schedulerapidata](https://github.com/claudiacaceresv/pf_yelp_google/blob/ecae7e03590019bb0db5c0c61810e27e209499cb/src/Cloud%20Scheduler.png)
 
-## Extracción de datos con Cloud Functions
+## ETL automatizado con Cloud Functions
 Para extraer los datos, se creó una función en Cloud Functions (API-Place-Google) que por medio de una API Key, extrae los datos directamente desde la API de Google Places y almacena la información en BigQuery cada vez que se ejecuta la función.
 
 ![getapidata](https://github.com/claudiacaceresv/pf_yelp_google/blob/ecae7e03590019bb0db5c0c61810e27e209499cb/src/Cloud%20Functions%20API.png)
