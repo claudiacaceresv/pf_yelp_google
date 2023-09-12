@@ -7,10 +7,9 @@
   <ol>
     <li><a href="#Pipeline">Pipeline</a></li>
     <li><a href="#Tecnologías">Tecnologías Utilizadas</a></li>
-    <li><a href="#Extracción de datos con Cloud Functions">Extracción de datos con Cloud Functions</a></li>
-    <li><a href="#Data Lake">Data Lake</a></li>
-    <li><a href="#ETL automatizado con Cloud Functions">ETL automatizado con Cloud Functions</a></li>
-    <li><a href="#Data Warehouse">Data Warehouse</a></li>
+    <li><a href="#Automatización-de-la-Extracción-de-Datos">Automatización de la Extracción de Datos</a></li>
+    <li><a href="#ETL-automatizado-con-Cloud-Functions">ETL automatizado con Cloud Functions</a></li>
+    <li><a href="#Data-Warehouse">Data Warehouse</a></li>
     <li><a href="#Video">Video</a></li>
   </ol>
 </details>
