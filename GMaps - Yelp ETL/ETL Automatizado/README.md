@@ -18,7 +18,7 @@
 
 Para el proceso de extracción, transformación y carga de los datos de este proyecto, se siguió el flujo a continuación:
 
-![pipeline](https://github.com/claudiacaceresv/pf_yelp_google/blob/ad5c8d6b2767c29f74bf79936324aedfdd4d47e3/src/Pipeline%20ETL.png)
+![pipeline](https://github.com/claudiacaceresv/pf_yelp_google/blob/a9af53e7d4f6287848e81fbd1c4fd2357bc0881a/src/Pipeline%20ETL.png)
 
 ## Tecnologías
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
