@@ -53,7 +53,6 @@ Cabe destacar que este enfoque se acota a los años entre 2019 y 2021, ya que es
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -61,7 +60,7 @@ Cabe destacar que este enfoque se acota a los años entre 2019 y 2021, ya que es
 ## Pipeline
 ![Pipeline](https://github.com/claudiacaceresv/pf_yelp_google/blob/ecf33eca73bd189b266d7b588d65e01faf8ca0fc/src/Workflow.png)
 
-- Diccionario de datos: [Link diccionario]()
+- Diccionario de datos: [Link diccionario](https://docs.google.com/spreadsheets/d/1Ql947y1GzXEJM7HPYNJw1nR_lQjkVZgu/edit#gid=476215875)
 - ETL Automatizado: [ETL Automatizado]()
 - ETL extraccion de la API de Google Places: [Link ETL API Places]()
 - Dashboard y KPIs: [Link desarrollo Data Analytics]()
