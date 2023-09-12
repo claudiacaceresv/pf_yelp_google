@@ -7,9 +7,9 @@
   <ol>
     <li><a href="#Pipeline">Pipeline</a></li>
     <li><a href="#Tecnologías">Tecnologías Utilizadas</a></li>
-    <li><a href="#Data Lake">Data Lake</a></li>
-    <li><a href="#Cloud Function Automatizada">Cloud Function Automatizada</a></li>
-    <li><a href="#Data Warehouse">Data Warehouse</a></li>
+    <li><a href="#Data-Lake">Data Lake</a></li>
+    <li><a href="#Cloud-Function">Cloud Function</a></li>
+    <li><a href="#Data-Warehouse">Data Warehouse</a></li>
     <li><a href="#Video">Video</a></li>
   </ol>
 </details>
@@ -36,7 +36,7 @@ El primer componente de nuestra estructura fue la creación de un Data Lake util
 ![datalakepng](https://github.com/claudiacaceresv/pf_yelp_google/blob/92a9d96a894a583170edaf5e3296ab2d400e4a1b/src/Cloud%20Storage.png)
 
 
-## Cloud Function Automatizada
+## Cloud Function
 
 Para automatizar el proceso ETL, implementamos Google Cloud Functions. Configuramos un activador que se desencadena automáticamente cuando se realiza una carga manual de datos en Cloud Storage. Este activador inicia el proceso ETL, que incluye la validación, transformación, limpieza y carga de datos en nuestro Data Warehouse.
 
