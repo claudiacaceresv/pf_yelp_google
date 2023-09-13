@@ -5,9 +5,9 @@
   <ol>
     <li><a href="#Pipeline">Pipeline</a></li>
     <li><a href="#Tecnologías">Tecnologías Utilizadas</a></li>
-    <li><a href="#Data Warehouse">Data Warehouse</a></li>
+    <li><a href="#Data-Warehouse">Data Warehouse</a></li>
     <li><a href="#VertexAI">VertexAI</a></li>
-    <li><a href="#Cloud Storage">Cloud Storage</a></li>
+    <li><a href="#Cloud-Storage">Cloud Storage</a></li>
     <li><a href="#Deploy">Deploy</a></li>
   </ol>
 </details>
