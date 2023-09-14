@@ -74,13 +74,13 @@ Si haces clic en el nombre de cualquier miembro, te llevará directamente a su p
 <div align="center">
   
 **Data Engineer:**
-| [<img src="https://avatars.githubusercontent.com/u/128927944?v=4" width=115><br><sub>Sebastián Bello</sub>](https://www.linkedin.com/in/sebastian-bello/) |
-  | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/128927944?v=4" width=115><br><sub>Sebastián Bello</sub>](https://www.linkedin.com/in/sebastian-bello/) | [<img src="https://avatars.githubusercontent.com/u/127915754?v=4" width=115><br><sub>Virginia Tenorio</sub>](https://www.linkedin.com/in/virginiatenoriov)|
+  | :---: | :---: |
 </div>
 <div align="center">
   
 **Data Scientist:**
-| [<img src="https://avatars.githubusercontent.com/u/107559407?v=4" width=115><br><sub>Martin Varela</sub>](https://www.linkedin.com/in/martin-varela-b84821218/) | [<img src="https://avatars.githubusercontent.com/u/127915754?v=4" width=115><br><sub>Virginia Tenorio</sub>](https://www.linkedin.com/in/virginiatenoriov)|
+| [<img src="https://avatars.githubusercontent.com/u/107559407?v=4" width=115><br><sub>Martin Varela</sub>](https://www.linkedin.com/in/martin-varela-b84821218/) | 
   | :---: | :---: |
 </div>
 <div align="center">
