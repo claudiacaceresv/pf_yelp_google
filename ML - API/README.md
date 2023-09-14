@@ -1,3 +1,8 @@
+<div align="center">
+
+![wink](https://github.com/claudiacaceresv/pf_yelp_google/blob/24daf1d8afe3d5b2e4d5aa844a48d1b382acd2b5/src/Data%20science.gif)
+</div>
+
 ## Desarrollo Sistema de Recomendación
 
 <details>

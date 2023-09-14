@@ -1,4 +1,9 @@
-# Desarrollo de ETL automatizado para los datasets de Google Maps y Yelp
+<div align="center">
+
+![wink](https://github.com/claudiacaceresv/pf_yelp_google/blob/fa667ddd9ed4250169052a1cf59b2d324cdee2eb/src/Data%20Engineering.gif)
+</div>
+
+# Desarrollo de ETL automatizado
 
 ## Índice
 <!-- TABLE OF CONTENTS -->
