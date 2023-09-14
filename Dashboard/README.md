@@ -51,8 +51,10 @@ A continuación, presentamos una breve descripción de cinco KPI esenciales que 
     ![Media de ratings](https://github.com/claudiacaceresv/pf_yelp_google/blob/0fcf8d6568f7db8e93c7e94d377ddf6cc8ff6f73/src/Media%20de%20ratings.png)
     
 2. `KPI 2`: 
-  - Formula: **CSAT** = 
   - Descripción: El CSAT es la brújula que nos guiará hacia la excelencia en la experiencia del cliente. Con esta métrica, sabremos exactamente qué áreas necesitan mejora y cómo podemos superar las expectativas de nuestros visitantes.
+  - Formula: **CSAT** =
+
+    ![CSAT](https://github.com/claudiacaceresv/pf_yelp_google/blob/9654287a0b0ca3eb018ff68c91e38ec3fe8cfcc1/src/CSAT.png)
     
 3. `KPI 3`: 
   - Formula: **NPS** = 
