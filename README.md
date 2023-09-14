@@ -74,7 +74,7 @@ Si haces clic en el nombre de cualquier miembro, te llevará directamente a su p
 <div align="center">
 
 **Data Engineering:**
-| [<img src="https://avatars.githubusercontent.com/u/128927944?v=4" width=115><br><sub>Sebastián Bello</sub>](www.linkedin.com/in/sebastian-bello/) |
+| [<img src="https://avatars.githubusercontent.com/u/128927944?v=4" width=115><br><sub>Sebastián Bello</sub>](https://www.linkedin.com/in/sebastian-bello/) |
   | :---: |
   
 </div>
@@ -89,7 +89,7 @@ Si haces clic en el nombre de cualquier miembro, te llevará directamente a su p
 </br>
   
 **Data Analysis:** 
-| [<img src="https://avatars.githubusercontent.com/u/118781524?v=4" width=115><br><sub>Claudia Caceres</sub>](www.linkedin.com/in/claudiacaceresv/) | [<img src="https://avatars.githubusercontent.com/u/126299452?v=4" width=115><br><sub>Mariano Bernal</sub>](https://www.linkedin.com/in/marianobernaldussel/) |
+| [<img src="https://avatars.githubusercontent.com/u/118781524?v=4" width=115><br><sub>Claudia Caceres</sub>](https://www.linkedin.com/in/claudiacaceresv/) | [<img src="https://avatars.githubusercontent.com/u/126299452?v=4" width=115><br><sub>Mariano Bernal</sub>](https://www.linkedin.com/in/marianobernaldussel/) |
   | :---: | :---: |
   
 </div>
