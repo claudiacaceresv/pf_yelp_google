@@ -57,16 +57,22 @@ A continuación, presentamos una breve descripción de cinco KPI esenciales que 
     ![CSAT](https://github.com/claudiacaceresv/pf_yelp_google/blob/9654287a0b0ca3eb018ff68c91e38ec3fe8cfcc1/src/CSAT.png)
     
 3. `KPI 3`: 
-  - Formula: **NPS** = 
   - Descripción: El NPS es una herramienta invaluable para construir una base de clientes leales y transformarlos en embajadores de nuestros restaurantes. A medida que acumulemos recomendaciones, nuestros negocios crecerán orgánicamente.
+  - Formula: **NPS** =
+
+    ![NPS](https://github.com/claudiacaceresv/pf_yelp_google/blob/14b76cab1ace2451855f62a3fb55bd8e5dfceb6d/src/NPS.png)
 
 4. `KPI 4`: 
-- Formula: **Cant reviews vs mes anterior** = 
 - Descripción: Con el KPI de Cantidad de Reviews vs. Mes Anterior, podremos rastrear cómo evoluciona la visibilidad y la retroalimentación de nuestros restaurantes con el tiempo, lo que nos permitirá tomar medidas proactivas para mantener o mejorar la reputación.
+- Formula: **Cant reviews vs mes anterior** = 
+
+  ![Cant reviews vs mes anterior](https://github.com/claudiacaceresv/pf_yelp_google/blob/14b76cab1ace2451855f62a3fb55bd8e5dfceb6d/src/Cant%20reviews%20vs%20mes%20anterior.png)
 
 5. `KPI 5`: 
-- Formula: **% Resp reseñas negativas** = 
-- Descripción: Este KPI muestra nuestro compromiso con la satisfacción del cliente. Al abordar de manera efectiva las reseñas negativas, podemos mostrar a los clientes que nos preocupamos por su experiencia y que estamos dispuestos a resolver problemas, lo que puede convertir situaciones difíciles en oportunidades de fidelización..
+- Descripción: Este KPI muestra nuestro compromiso con la satisfacción del cliente. Al abordar de manera efectiva las reseñas negativas, podemos mostrar a los clientes que nos preocupamos por su experiencia y que estamos dispuestos a resolver problemas, lo que puede convertir situaciones difíciles en oportunidades de fidelización.
+- Formula: **% Resp reseñas negativas** =
+
+  ![% Resp reseñas negativas](https://github.com/claudiacaceresv/pf_yelp_google/blob/14b76cab1ace2451855f62a3fb55bd8e5dfceb6d/src/Resp%20rese%C3%B1as%20negativas.png)
 
 Estos KPI no solo proporcionarán información valiosa sobre nuestro negocio, sino que también brindarán una ventaja competitiva en el mundo altamente competitivo de la gastronomía. Utilicémoslos para perfeccionar nuestras estrategias y brindar a nuestros clientes una experiencia inolvidable en nuestro restaurante.
 
