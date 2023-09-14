@@ -46,6 +46,7 @@ A continuación, presentamos una breve descripción de cinco KPI esenciales que 
 
 1. `KPI 1`: 
   - Formula: **Media de ratings** = ![Media de ratings](https://github.com/claudiacaceresv/pf_yelp_google/blob/0fcf8d6568f7db8e93c7e94d377ddf6cc8ff6f73/src/Media%20de%20ratings.png)
+    
   - Descripción: Con el KPI de Media de Ratings, podremos evaluar constantemente la satisfacción de nuestros clientes y comprender cómo perciben la calidad de nuestros platos y servicios. Esto ayudará a mantener altos estándares y atraer a más comensales satisfechos.
     
 2. `KPI 2`: 
