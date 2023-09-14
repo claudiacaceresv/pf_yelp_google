@@ -72,6 +72,7 @@ Si haces clic en el nombre de cualquier miembro, te llevará directamente a su p
 
 </br>
 <div align="center">
+  
 **Data Engineering:**
 | [<img src="https://avatars.githubusercontent.com/u/128927944?v=4" width=115><br><sub>Sebastián Bello</sub>](https://www.linkedin.com/in/sebastian-bello/) |
   | :---: |
