@@ -53,24 +53,28 @@ A continuación, presentamos una breve descripción de cinco KPI esenciales que 
     
 2. `KPI 2`: 
   - Descripción: El CSAT es la brújula que nos guiará hacia la excelencia en la experiencia del cliente. Con esta métrica, sabremos exactamente qué áreas necesitan mejora y cómo podemos superar las expectativas de nuestros visitantes.
+  - Objetivo: Lograr un Customer Satisfaction Score (CSAT) mensual mayor al 90 %
   - Formula: **CSAT** =
 
     ![CSAT](https://github.com/claudiacaceresv/pf_yelp_google/blob/9654287a0b0ca3eb018ff68c91e38ec3fe8cfcc1/src/CSAT.png)
     
 3. `KPI 3`: 
   - Descripción: El NPS es una herramienta invaluable para construir una base de clientes leales y transformarlos en embajadores de nuestros restaurantes. A medida que acumulemos recomendaciones, nuestros negocios crecerán orgánicamente.
+  - Objetivo: Lograr un Net Promoter Score (NPS) mensual mayor a 50
   - Formula: **NPS** =
 
     ![NPS](https://github.com/claudiacaceresv/pf_yelp_google/blob/14b76cab1ace2451855f62a3fb55bd8e5dfceb6d/src/NPS.png)
 
 4. `KPI 4`: 
 - Descripción: Con el KPI de Cantidad de Reviews vs. Mes Anterior, podremos rastrear cómo evoluciona la visibilidad y la retroalimentación de nuestros restaurantes con el tiempo, lo que nos permitirá tomar medidas proactivas para mantener o mejorar la reputación.
+- Objetivo: Aumentar la Cantidad de valorizaciones del local vs el mes anterior anterior (métrica mensual > 0 %:   
 - Formula: **Cant reviews vs mes anterior** = 
 
   ![Cant reviews vs mes anterior](https://github.com/claudiacaceresv/pf_yelp_google/blob/14b76cab1ace2451855f62a3fb55bd8e5dfceb6d/src/Cant%20reviews%20vs%20mes%20anterior.png)
 
 5. `KPI 5`: 
 - Descripción: Este KPI muestra nuestro compromiso con la satisfacción del cliente. Al abordar de manera efectiva las reseñas negativas, podemos mostrar a los clientes que nos preocupamos por su experiencia y que estamos dispuestos a resolver problemas, lo que puede convertir situaciones difíciles en oportunidades de fidelización.
+- Objetivo: Obtener un porcentaje de respuestas a reseñas no satisfechas mensual mayor al 95 %
 - Formula: **% Resp reseñas negativas** =
 
   ![% Resp reseñas negativas](https://github.com/claudiacaceresv/pf_yelp_google/blob/14b76cab1ace2451855f62a3fb55bd8e5dfceb6d/src/Resp%20rese%C3%B1as%20negativas.png)
