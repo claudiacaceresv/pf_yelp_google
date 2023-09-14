@@ -47,7 +47,7 @@ El modelo utiliza variables como densidad, puntuación y número de revisiones d
 ## Cloud Storage
 El modelo entrenado se exportó de manera directa desde el entorno Workbench de VertexAI a un repositorio en Cloud Storage, listo para su posterior implementación.
 
-![csml]()
+![csml](https://github.com/claudiacaceresv/pf_yelp_google/blob/f1d183bcd9955a1ce5b94e2944c02b6e08096f1f/src/Storage%20ML.png)
 
 ## Deploy
 Para poner a disposición del usuario el sistema de recomendación, se creó una imagen Docker a partir del archivo almacenado en el repositorio de Cloud Storage, junto con el código esencial necesario para alojar una API en FastAPI. Esta API ofrece endpoints que pueden ser consumidos para obtener las recomendaciones proporcionadas por el modelo cada vez que se soliciten.
