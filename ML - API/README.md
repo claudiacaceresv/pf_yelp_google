@@ -8,6 +8,7 @@
 <details>
   <summary>Tabla de contenido</summary>
   <ol>
+    <li><a href="#Modelo-de-Machine-Learning">Modelo de Machine Learning</a></li>
     <li><a href="#Pipeline">Pipeline</a></li>
     <li><a href="#Tecnologías">Tecnologías Utilizadas</a></li>
     <li><a href="#Data-Warehouse">Data Warehouse</a></li>
@@ -16,6 +17,10 @@
     <li><a href="#Deploy">Deploy</a></li>
   </ol>
 </details>
+
+## Modelo de Machine Learning
+
+Se llevó a cabo un ensamble entre un modelo con estructura de red neuronal utilizado para el reconocimiento de palabras (word2vec con su variante CBOW - Continuous Bag of Words), y un modelo simple desarrollado por nosotros, basado en un sistema de puntuación que busca optimizar una suma ponderada para calificar restaurantes. Este sistema asigna ponderación a tres variables: la densidad de cada restaurante, el puntaje promedio otorgado por los usuarios a cada restaurante y el número de reseñas. Para calcular la densidad de cada restaurante, aplicamos el algoritmo Kernel Density Estimation (KDE). En este proceso, iteramos a través de cada restaurante y evaluamos su contribución a la densidad estimada en esa ubicación. Utilizamos una función núcleo (en este caso, kernel gaussiano) alrededor de cada restaurante para calcular esta contribución. A medida que nos alejamos de un restaurante en particular, su influencia disminuye gradualmente. Finalmente, normalizamos la estimación para obtener una función de densidad de probabilidad válida.
 
 ## Pipeline
 Para la creación del sistema de recomendación para el cliente, se siguió el flujo a continuación:
