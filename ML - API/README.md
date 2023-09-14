@@ -22,6 +22,7 @@ Para la creación del sistema de recomendación para el cliente, se siguió el f
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -39,9 +40,9 @@ Para el desarrollo del modelo, se empleó un entorno Jupyter Notebook integrado 
 
 El modelo utiliza variables como densidad, puntuación y número de revisiones de los locales para calcular una puntuación ponderada. Esto permite posicionar estratégicamente el restaurante en cuestión. Los resultados de esta ponderación se presentan al cliente a través de un mapa interactivo, ofreciendo una visualización clara y práctica de las recomendaciones. 
 
-[Link al código del Notebook de VertexAI]() 
+[Link al código del Notebook de VertexAI](https://github.com/claudiacaceresv/pf_yelp_google/blob/a9200aa808b91532dd0ed4d2ed1dcbbf25bbe6f2/ML%20-%20API/Modelo-ML.ipynb) 
 
-![vertexai]()
+![vertexai](https://github.com/claudiacaceresv/pf_yelp_google/blob/e927c6eb8847be5f2054b405435f258328d36369/src/Modelo%20ML%20Vertex.png)
 
 ## Cloud Storage
 El modelo entrenado se exportó de manera directa desde el entorno Workbench de VertexAI a un repositorio en Cloud Storage, listo para su posterior implementación.
