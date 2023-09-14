@@ -65,7 +65,7 @@ Cabe destacar que este enfoque se acota a los años entre 2019 y 2021, ya que es
 - ETL Automatizado: [Link ETL Automatizado](https://github.com/claudiacaceresv/pf_yelp_google/tree/c102dc8f0d1c5190f41dde386d208ff055918998/ETL%20Automatizado/ETL%20Automatizado)
 - ETL extraccion de la API de Google Places: [Link ETL API Places](https://github.com/claudiacaceresv/pf_yelp_google/tree/c102dc8f0d1c5190f41dde386d208ff055918998/ETL%20Automatizado/ETL%20API%20Google%20Places)
 - Dashboard y KPIs: [Link desarrollo Data Analytics](https://github.com/claudiacaceresv/pf_yelp_google/tree/76618c4e2d51d34c17bff98084989ba6e86cf8a1/Dashboard)
-- Sistema de recomendación: [Link desarrollo de sistema de recomendación](https://github.com/claudiacaceresv/pf_yelp_google/blob/235a1cea5c8273e2b9a6f9794f224cf43089f831/ML%20-%20API/README.md)
+- Sistema de recomendación: [Link desarrollo de sistema de recomendación](https://github.com/claudiacaceresv/pf_yelp_google/tree/e492603d5b7e06d0745a0eeb343ca3ce2790c1fb/ML%20-%20API)
 
 ## Desarrolladores
 Si haces clic en el nombre de cualquier miembro, te llevará directamente a su perfil en LinkedIn.
