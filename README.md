@@ -62,8 +62,8 @@ Cabe destacar que este enfoque se acota a los años entre 2019 y 2021, ya que es
 ![Pipeline](https://github.com/claudiacaceresv/pf_yelp_google/blob/a2b5f277646a2da871eb09c569512bc5b2259f82/src/Workflow.png)
 
 - Diccionario de datos: [Link diccionario](https://docs.google.com/spreadsheets/d/1Ql947y1GzXEJM7HPYNJw1nR_lQjkVZgu/edit#gid=476215875)
-- ETL Automatizado: [Link ETL Automatizado](https://github.com/claudiacaceresv/pf_yelp_google/tree/b0f5adbc7403f6640678254e872b1c78c624bb7e/GMaps%20-%20Yelp%20ETL/ETL%20Automatizado)
-- ETL extraccion de la API de Google Places: [Link ETL API Places](https://github.com/claudiacaceresv/pf_yelp_google/tree/b0f5adbc7403f6640678254e872b1c78c624bb7e/GMaps%20-%20Yelp%20ETL/ETL%20API%20Google%20Places)
+- ETL Automatizado: [Link ETL Automatizado](https://github.com/claudiacaceresv/pf_yelp_google/tree/c102dc8f0d1c5190f41dde386d208ff055918998/ETL%20Automatizado/ETL%20Automatizado)
+- ETL extraccion de la API de Google Places: [Link ETL API Places](https://github.com/claudiacaceresv/pf_yelp_google/tree/c102dc8f0d1c5190f41dde386d208ff055918998/ETL%20Automatizado/ETL%20API%20Google%20Places)
 - Dashboard y KPIs: [Link desarrollo Data Analytics]()
 - Sistema de recomendación: [Link desarrollo de sistema de recomendación](https://github.com/claudiacaceresv/pf_yelp_google/blob/235a1cea5c8273e2b9a6f9794f224cf43089f831/ML%20-%20API/README.md)
 
@@ -74,14 +74,14 @@ Si haces clic en el nombre de cualquier miembro, te llevará directamente a su p
 <div align="center">
   
 **Data Engineer:**
-| [<img src="https://avatars.githubusercontent.com/u/128927944?v=4" width=115><br><sub>Sebastián Bello</sub>](https://www.linkedin.com/in/sebastian-bello/) |
-  | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/128927944?v=4" width=115><br><sub>Sebastián Bello</sub>](https://www.linkedin.com/in/sebastian-bello/) | [<img src="https://avatars.githubusercontent.com/u/127915754?v=4" width=115><br><sub>Virginia Tenorio</sub>](https://www.linkedin.com/in/virginiatenoriov)|
+  | :---: | :---: |
 </div>
 <div align="center">
   
 **Data Scientist:**
-| [<img src="https://avatars.githubusercontent.com/u/107559407?v=4" width=115><br><sub>Martin Varela</sub>](https://www.linkedin.com/in/martin-varela-b84821218/) | [<img src="https://avatars.githubusercontent.com/u/127915754?v=4" width=115><br><sub>Virginia Tenorio</sub>](https://www.linkedin.com/in/virginiatenoriov)|
-  | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/107559407?v=4" width=115><br><sub>Martin Varela</sub>](https://www.linkedin.com/in/martin-varela-b84821218/) | 
+  | :---: | 
 </div>
 <div align="center">
 
