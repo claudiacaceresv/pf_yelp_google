@@ -80,5 +80,7 @@ La imagen Docker resultante se implementó en el servicio Cloud Run, lo que perm
 [Link a la API deployada](https://modelo-machine-learning-p4ruvbt7oq-uc.a.run.app/docs) 
 
 ![depdocker](https://github.com/claudiacaceresv/pf_yelp_google/blob/525865d879c5b37a658ccf96925f05124cfa77be/src/Docker%20Hub.jpg)
+---
 ![depcrun](https://github.com/claudiacaceresv/pf_yelp_google/blob/525865d879c5b37a658ccf96925f05124cfa77be/src/Cloud%20Run.png)
+---
 ![apiml](https://github.com/claudiacaceresv/pf_yelp_google/blob/7c7b1c4f45b1c3af1c50ab85de43873aea862617/src/Video%20API.gif)
