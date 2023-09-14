@@ -1,3 +1,8 @@
+<div align="center">
+
+![wink](https://github.com/claudiacaceresv/pf_yelp_google/blob/fa667ddd9ed4250169052a1cf59b2d324cdee2eb/src/Data%20Engineering.gif)
+</div>
+
 # ETL data de Google Places API 
 
 ## Indice
