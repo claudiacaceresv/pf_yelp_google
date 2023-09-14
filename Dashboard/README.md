@@ -45,8 +45,10 @@ Es esencial tener una comprensión sólida de cómo medir y mejorar el rendimien
 A continuación, presentamos una breve descripción de cinco KPI esenciales que desempeñarán un papel crucial en la evaluación y el seguimiento del rendimiento del futuro restaurante
 
 1. `KPI 1`: 
-  - Formula: **Media de ratings** = 
   - Descripción: Con el KPI de Media de Ratings, podremos evaluar constantemente la satisfacción de nuestros clientes y comprender cómo perciben la calidad de nuestros platos y servicios. Esto ayudará a mantener altos estándares y atraer a más comensales satisfechos.
+  - Formula: **Media de ratings** =
+    
+    ![Media de ratings](https://github.com/claudiacaceresv/pf_yelp_google/blob/0fcf8d6568f7db8e93c7e94d377ddf6cc8ff6f73/src/Media%20de%20ratings.png)
     
 2. `KPI 2`: 
   - Formula: **CSAT** = 
