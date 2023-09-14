@@ -39,7 +39,7 @@ Para el desarrollo del modelo, se empleó un entorno Jupyter Notebook integrado 
 
 El modelo utiliza variables como densidad, puntuación y número de revisiones de los locales para calcular una puntuación ponderada. Esto permite posicionar estratégicamente el restaurante en cuestión. Los resultados de esta ponderación se presentan al cliente a través de un mapa interactivo, ofreciendo una visualización clara y práctica de las recomendaciones. 
 
-[Link al código del Notebook de VertexAI]() 
+[Link al código del Notebook de VertexAI](https://github.com/claudiacaceresv/pf_yelp_google/blob/a9200aa808b91532dd0ed4d2ed1dcbbf25bbe6f2/ML%20-%20API/Modelo-ML.ipynb) 
 
 ![vertexai](https://github.com/claudiacaceresv/pf_yelp_google/blob/e927c6eb8847be5f2054b405435f258328d36369/src/Modelo%20ML%20Vertex.png)
 
