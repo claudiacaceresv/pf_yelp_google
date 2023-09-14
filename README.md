@@ -59,7 +59,7 @@ Cabe destacar que este enfoque se acota a los años entre 2019 y 2021, ya que es
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## Pipeline
-![Pipeline](https://github.com/claudiacaceresv/pf_yelp_google/blob/a2b5f277646a2da871eb09c569512bc5b2259f82/src/Workflow.png)
+![Pipeline](https://github.com/claudiacaceresv/pf_yelp_google/blob/66db4e678f8607989b44d038fedefa8b15426343/src/Workflow.png)
 
 - Diccionario de datos: [Link diccionario](https://docs.google.com/spreadsheets/d/1Ql947y1GzXEJM7HPYNJw1nR_lQjkVZgu/edit#gid=476215875)
 - ETL Automatizado: [Link ETL Automatizado](https://github.com/claudiacaceresv/pf_yelp_google/tree/c102dc8f0d1c5190f41dde386d208ff055918998/ETL%20Automatizado/ETL%20Automatizado)
