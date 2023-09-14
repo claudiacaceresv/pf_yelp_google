@@ -73,19 +73,19 @@ Si haces clic en el nombre de cualquier miembro, te llevará directamente a su p
 </br>
 <div align="center">
   
-**Data Engineering:**
+**Data Engineer:**
 | [<img src="https://avatars.githubusercontent.com/u/128927944?v=4" width=115><br><sub>Sebastián Bello</sub>](https://www.linkedin.com/in/sebastian-bello/) |
   | :---: |
 </div>
 <div align="center">
   
-**Data Science:**
+**Data Scientist:**
 | [<img src="https://avatars.githubusercontent.com/u/107559407?v=4" width=115><br><sub>Martin Varela</sub>](https://www.linkedin.com/in/martin-varela-b84821218/) | [<img src="https://avatars.githubusercontent.com/u/127915754?v=4" width=115><br><sub>Virginia Tenorio</sub>](https://www.linkedin.com/in/virginiatenoriov)|
   | :---: | :---: |
 </div>
 <div align="center">
 
-**Data Analysis:** 
+**Data Analyst:** 
 | [<img src="https://avatars.githubusercontent.com/u/118781524?v=4" width=115><br><sub>Claudia Caceres</sub>](https://www.linkedin.com/in/claudiacaceresv/) | [<img src="https://avatars.githubusercontent.com/u/126299452?v=4" width=115><br><sub>Mariano Bernal</sub>](https://www.linkedin.com/in/marianobernaldussel/) |
   | :---: | :---: | 
 </div>
