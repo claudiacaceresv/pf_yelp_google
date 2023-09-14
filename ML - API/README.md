@@ -41,7 +41,7 @@ El modelo utiliza variables como densidad, puntuación y número de revisiones d
 
 [Link al código del Notebook de VertexAI]() 
 
-![vertexai]()
+![vertexai](https://github.com/claudiacaceresv/pf_yelp_google/blob/e927c6eb8847be5f2054b405435f258328d36369/src/Modelo%20ML%20Vertex.png)
 
 ## Cloud Storage
 El modelo entrenado se exportó de manera directa desde el entorno Workbench de VertexAI a un repositorio en Cloud Storage, listo para su posterior implementación.
