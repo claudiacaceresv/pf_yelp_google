@@ -84,7 +84,6 @@ Si haces clic en el nombre de cualquier miembro, te llevará directamente a su p
   | :---: | :---: |
 </div>
 <div align="center">
-</br>
 
 **Data Analysis:** 
 | [<img src="https://avatars.githubusercontent.com/u/118781524?v=4" width=115><br><sub>Claudia Caceres</sub>](https://www.linkedin.com/in/claudiacaceresv/) | [<img src="https://avatars.githubusercontent.com/u/126299452?v=4" width=115><br><sub>Mariano Bernal</sub>](https://www.linkedin.com/in/marianobernaldussel/) |
