@@ -54,7 +54,7 @@ Para poner a disposición del usuario el sistema de recomendación, se creó una
 
 La imagen Docker resultante se implementó en el servicio Cloud Run, lo que permitió la puesta en línea de la API desarrollada en FastAPI, haciéndola accesible en línea para su utilización.
 
-[Link a la API deployada](https://modelo-machine-learning-qaxl3gfl5q-uc.a.run.app/docs) 
+[Link a la API deployada](https://modelo-machine-learning-p4ruvbt7oq-uc.a.run.app/docs) 
 
 ![depdocker](https://github.com/claudiacaceresv/pf_yelp_google/blob/525865d879c5b37a658ccf96925f05124cfa77be/src/Docker%20Hub.jpg)
 ![depcrun](https://github.com/claudiacaceresv/pf_yelp_google/blob/525865d879c5b37a658ccf96925f05124cfa77be/src/Cloud%20Run.png)
