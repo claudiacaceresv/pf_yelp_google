@@ -67,3 +67,7 @@ A continuación, presentamos una breve descripción de cinco KPI esenciales que 
 Estos KPI no solo proporcionarán información valiosa sobre nuestro negocio, sino que también brindarán una ventaja competitiva en el mundo altamente competitivo de la gastronomía. Utilicémoslos para perfeccionar nuestras estrategias y brindar a nuestros clientes una experiencia inolvidable en nuestro restaurante.
 
 ## Dashboard
+
+Debido al peso del archivo, hemos tomado la decisión de almacenar el dashboard en Google Drive. Para descargarlo, simplemente hagan clic en el enlace a continuación:
+
+Link de descarga dashboard Google Drive: [Link de descarga](https://drive.google.com/drive/folders/1CApJw9kXN3tu6AizUF83zRXDWQMVW0_c)
