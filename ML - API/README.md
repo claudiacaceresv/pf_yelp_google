@@ -22,6 +22,11 @@
 
 Se llevó a cabo un ensamble entre un modelo con estructura de red neuronal utilizado para el reconocimiento de palabras (word2vec con su variante CBOW - Continuous Bag of Words), y un modelo simple desarrollado por nosotros, basado en un sistema de puntuación que busca optimizar una suma ponderada para calificar restaurantes. Este sistema asigna ponderación a tres variables: la densidad de cada restaurante, el puntaje promedio otorgado por los usuarios a cada restaurante y el número de reseñas. Para calcular la densidad de cada restaurante, aplicamos el algoritmo Kernel Density Estimation (KDE). En este proceso, iteramos a través de cada restaurante y evaluamos su contribución a la densidad estimada en esa ubicación. Utilizamos una función núcleo (en este caso, kernel gaussiano) alrededor de cada restaurante para calcular esta contribución. A medida que nos alejamos de un restaurante en particular, su influencia disminuye gradualmente. Finalmente, normalizamos la estimación para obtener una función de densidad de probabilidad válida.
 
+- Funcionamiento:
+
+  **1. Primer paso: Ingreso de la categoría**
+En el primer paso, el usuario introduce la categoría de interés. Por otro lado, el propietario del futuro establecimiento proporciona una categoría clave que desearía tener cerca de su parrilla. En este punto, el sistema de reconocimiento de similitud de palabras busca términos relacionados y, junto con la palabra ingresada por el usuario, genera un listado de restaurantes que cumplen con la característica solicitada. 
+
 ## Pipeline
 Para la creación del sistema de recomendación para el cliente, se siguió el flujo a continuación:
 
