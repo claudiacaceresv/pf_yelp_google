@@ -28,13 +28,13 @@ A través de nuestro panel de control, los invitamos a un viaje de descubrimient
 
 El objetivo del panel de control en Power BI es proporcionar una herramienta integral para analizar y comprender datos clave en tres áreas fundamentales:
 
-1. Categorías: Este panel permite explorar datos relacionados con la ubicación geográfica de los locales, identificar concentraciones geográficas de restaurantes y realizar un análisis detallado por categorías o restaurantes individuales. Esto ayuda a comprender mejor el mercado y la competencia.
+**1. Categorías:** Este panel permite explorar datos relacionados con la ubicación geográfica de los locales, identificar concentraciones geográficas de restaurantes y realizar un análisis detallado por categorías o restaurantes individuales. Esto ayuda a comprender mejor el mercado y la competencia.
 
-2. Reseñas: Aquí, se pueden analizar las opiniones de los clientes a través de un Word Cloud que resalta las palabras más frecuentes en las reseñas, detalles de comentarios junto con la puntuación y otros indicadores que proporcionan una visión completa de la satisfacción del cliente.
+**2. Reseñas:** Aquí, se pueden analizar las opiniones de los clientes a través de un Word Cloud que resalta las palabras más frecuentes en las reseñas, detalles de comentarios junto con la puntuación y otros indicadores que proporcionan una visión completa de la satisfacción del cliente.
 
-3. KPI: En esta sección, se evalúan los indicadores clave de rendimiento propuestos, centrados en la satisfacción del cliente, como la media de ratings, CSAT y NPS. Además, se pueden comparar estos KPIs con la competencia y realizar un seguimiento de su evolución histórica.
+**3. KPI:** En esta sección, se evalúan los indicadores clave de rendimiento propuestos, centrados en la satisfacción del cliente, como la media de ratings, CSAT y NPS. Además, se pueden comparar estos KPIs con la competencia y realizar un seguimiento de su evolución histórica.
 
-4. Recomendación: Proporciona sugerencias sobre ubicaciones ideales para nuevos restaurantes mediante un mapa interactivo basado en datos demográficos y de mercado. También muestra la competencia en esa área, permitiendo al cliente evaluar la ubicación y competir eficazmente. Esta característica brinda una ventaja estratégica en la toma de decisiones empresariales.
+**4. Recomendación:** Proporciona sugerencias sobre ubicaciones ideales para nuevos restaurantes mediante un mapa interactivo basado en datos demográficos y de mercado. También muestra la competencia en esa área, permitiendo al cliente evaluar la ubicación y competir eficazmente. Esta característica brinda una ventaja estratégica en la toma de decisiones empresariales.
 
 En conjunto, este panel de control de Power BI ofrece una visión profunda y dinámica que puede adaptarse a diferentes enfoques, ya sea para comprender el mercado, analizar competidores o evaluar el desempeño de un restaurante específico. Proporciona herramientas valiosas para la toma de decisiones basadas en datos y la mejora continua. Además, el uso de KPIs complementa esta visión, ofreciendo perspectivas diversas sobre la satisfacción y lealtad del cliente, lo que permite tomar decisiones más informadas y estratégicas.
 
@@ -67,3 +67,7 @@ A continuación, presentamos una breve descripción de cinco KPI esenciales que 
 Estos KPI no solo proporcionarán información valiosa sobre nuestro negocio, sino que también brindarán una ventaja competitiva en el mundo altamente competitivo de la gastronomía. Utilicémoslos para perfeccionar nuestras estrategias y brindar a nuestros clientes una experiencia inolvidable en nuestro restaurante.
 
 ## Dashboard
+
+Debido al peso del archivo, hemos tomado la decisión de almacenar el dashboard en Google Drive. Para descargarlo, simplemente hagan clic en el enlace a continuación:
+
+Link de descarga dashboard Google Drive: [Link de descarga](https://drive.google.com/file/d/1NIx9KaDP9VeghaQh6lQnWfYjB1R33FH3/view?usp=drive_link)
