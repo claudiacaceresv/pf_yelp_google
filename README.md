@@ -14,7 +14,6 @@
     <li><a href="#Tecnologías">Tecnologías utilizadas</a></li>
     <li><a href="#Pipeline">Pipeline</a></li>
     <li><a href="#Desarrolladores">Desarrolladores</a></li>
-    <li><a href="#Metodología">Metodología</a></li>
   </ol>
 </details>
 
