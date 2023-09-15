@@ -85,4 +85,4 @@ Estos KPI no solo proporcionarán información valiosa sobre nuestro negocio, si
 
 Debido al peso del archivo, hemos tomado la decisión de almacenar el dashboard en Google Drive. Para descargarlo, simplemente hagan clic en el enlace a continuación:
 
-Link de descarga dashboard Google Drive: [Link de descarga](https://drive.google.com/file/d/1NIx9KaDP9VeghaQh6lQnWfYjB1R33FH3/view?usp=drive_link)
+Link de descarga dashboard Google Drive: [Link de descarga](https://drive.google.com/file/d/1wsG7ABRZSvMCyJP7qtkcPjz-RL8SdvgE/view?usp=drive_link)
