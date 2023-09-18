@@ -93,7 +93,7 @@ Si haces clic en el nombre de cualquier miembro, te llevará directamente a su p
 ## Metodología
 <div align="center">
 
-<img src="https://github.com/claudiacaceresv/pf_yelp_google/blob/c5c50e69c2a0653e9ba009a2f47b4215e04293af/src/Scrum.png" alt="Scrum" width="700">
+<img src="https://github.com/claudiacaceresv/pf_yelp_google/blob/c5c50e69c2a0653e9ba009a2f47b4215e04293af/src/Scrum.png" alt="Scrum" width="800">
 </div>
 
 
