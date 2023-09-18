@@ -30,9 +30,3 @@ El Software se proporciona "TAL CUAL" y "CON TODAS SUS FALLAS". El Titular de De
 
 En ningún caso el Titular de Derechos será responsable de ningún daño, ya sea en una acción contractual, extracontractual o de otra índole, derivado del uso o rendimiento del Software.
 
-## Terminación
-
-Esta licencia se revocará automáticamente si no se cumple con sus términos y condiciones. Tras la terminación, se debe dejar de utilizar y destruir todas las copias del Software.
-
-
-**Por favor, lea y comprenda esta licencia antes de utilizar el Software.**
