@@ -14,6 +14,7 @@
     <li><a href="#Tecnologías">Tecnologías utilizadas</a></li>
     <li><a href="#Pipeline">Pipeline</a></li>
     <li><a href="#Desarrolladores">Desarrolladores</a></li>
+    <li><a href="#Metodología">Metodología</a></li>
   </ol>
 </details>
 
@@ -88,4 +89,8 @@ Si haces clic en el nombre de cualquier miembro, te llevará directamente a su p
 | [<img src="https://avatars.githubusercontent.com/u/118781524?v=4" width=115><br><sub>Claudia Caceres</sub>](https://www.linkedin.com/in/claudiacaceresv/) | [<img src="https://avatars.githubusercontent.com/u/126299452?v=4" width=115><br><sub>Mariano Bernal</sub>](https://www.linkedin.com/in/marianobernaldussel/) |
   | :---: | :---: | 
 </div>
+
+## Metodología
+![Scrum](https://github.com/claudiacaceresv/pf_yelp_google/blob/c5c50e69c2a0653e9ba009a2f47b4215e04293af/src/Scrum.png)
+
 
