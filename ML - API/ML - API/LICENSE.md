@@ -1,12 +1,12 @@
 # Licencia de Uso No Comercial y Protección de Propiedad Intelectual
 
-**Fecha:** [18/9/2023]
-**Licenciante:** [Martín Angel Varela]
+**Fecha:** 18 de septiembre de 2023
+**Licenciante:** Martín Angel Varela
 
 ## Definiciones
 
 - **Software:** Refiere al software y cualquier material asociado proporcionado con esta licencia.
-- **Titular de Derechos:** Se refiere a [Tu Nombre o el Nombre de tu Organización], el titular de los derechos de propiedad intelectual del Software.
+- **Titular de Derechos:** Se refiere a Martín Angel Varela, el titular de los derechos de propiedad intelectual del Software.
 
 ## Concesión de derechos
 
@@ -34,8 +34,5 @@ En ningún caso el Titular de Derechos será responsable de ningún daño, ya se
 
 Esta licencia se revocará automáticamente si no se cumple con sus términos y condiciones. Tras la terminación, se debe dejar de utilizar y destruir todas las copias del Software.
 
-## Jurisdicción y Ley Aplicable
-
-Esta licencia se rige por las leyes de [tu jurisdicción], y cualquier disputa relacionada con esta licencia se resolverá en los tribunales de [tu jurisdicción].
 
 **Por favor, lea y comprenda esta licencia antes de utilizar el Software.**
