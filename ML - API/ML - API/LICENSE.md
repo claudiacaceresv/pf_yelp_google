@@ -1,7 +1,41 @@
-Copyright (c) [2023] [Martín Varela]
+# Licencia de Uso No Comercial y Protección de Propiedad Intelectual
 
-Permiso otorgado a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software") para utilizar el Software sin restricción, incluyendo, sin limitación, los derechos para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y para permitir a las personas a quienes se les proporcione el Software a hacerlo, sujeto a las siguientes condiciones:
+**Fecha:** [18/9/2023]
+**Licenciante:** [Martín Angel Varela]
 
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+## Definiciones
 
-EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO, DERIVADA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO TIPO DE TRATAMIENTO EN EL SOFTWARE.
+- **Software:** Refiere al software y cualquier material asociado proporcionado con esta licencia.
+- **Titular de Derechos:** Se refiere a [Tu Nombre o el Nombre de tu Organización], el titular de los derechos de propiedad intelectual del Software.
+
+## Concesión de derechos
+
+Este software es proporcionado bajo la siguiente licencia personalizada:
+
+- Se otorga permiso a cualquier persona que obtenga una copia de este Software a utilizarlo únicamente para fines no comerciales.
+
+- El Software está protegido por las leyes de derechos de autor y otras leyes aplicables. Todos los derechos no otorgados expresamente en esta licencia están reservados al Titular de Derechos.
+
+## Limitaciones
+
+- **Uso Comercial Prohibido:** No se permite el uso comercial del Software. Esto incluye, pero no se limita a, la venta del Software o su uso en productos o servicios con fines lucrativos.
+
+- **Modificación y Redistribución Restringidas:** No se permite la modificación, redistribución o sublicencia del Software, salvo que se obtenga un permiso explícito por escrito del Titular de Derechos.
+
+## Sin garantía
+
+El Software se proporciona "TAL CUAL" y "CON TODAS SUS FALLAS". El Titular de Derechos no garantiza la idoneidad del Software para ningún propósito particular, ni garantiza su funcionamiento ininterrumpido o libre de errores.
+
+## Limitación de responsabilidad
+
+En ningún caso el Titular de Derechos será responsable de ningún daño, ya sea en una acción contractual, extracontractual o de otra índole, derivado del uso o rendimiento del Software.
+
+## Terminación
+
+Esta licencia se revocará automáticamente si no se cumple con sus términos y condiciones. Tras la terminación, se debe dejar de utilizar y destruir todas las copias del Software.
+
+## Jurisdicción y Ley Aplicable
+
+Esta licencia se rige por las leyes de [tu jurisdicción], y cualquier disputa relacionada con esta licencia se resolverá en los tribunales de [tu jurisdicción].
+
+**Por favor, lea y comprenda esta licencia antes de utilizar el Software.**
