@@ -103,7 +103,7 @@ Si deseas ver el video donde se proporciona una visión general de este proyecto
 
 <div align="center">
   
-[![YouTube](https://www.youtube.com/watch?v=5FovNGXSqK0)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=5FovNGXSqK0)
   
 </div>
 
