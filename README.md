@@ -15,6 +15,7 @@
     <li><a href="#Pipeline">Pipeline</a></li>
     <li><a href="#Desarrolladores">Desarrolladores</a></li>
     <li><a href="#Metodología">Metodología</a></li>
+    <li><a href="#Video">Video</a></li>
   </ol>
 </details>
 
@@ -94,6 +95,16 @@ Si haces clic en el nombre de cualquier miembro, te llevará directamente a su p
 <div align="center">
 
 <img src="https://github.com/claudiacaceresv/pf_yelp_google/blob/c5c50e69c2a0653e9ba009a2f47b4215e04293af/src/Scrum.png" alt="Scrum" width="800">
+</div>
+
+## Video
+
+Si deseas ver el video donde se proporciona una visión general de este proyecto, simplemente haz clic en el logotipo de YouTube a continuación:
+
+<div align="center">
+  
+[![YouTube](https://www.youtube.com/watch?v=5FovNGXSqK0)
+  
 </div>
 
 
